@@ -1,3 +1,15 @@
+
+# ----------------------------------------------------------------------------
+# -*- coding: utf-8 -*-
+# @Author:              Gifty Attiah
+# @Date:                2021-05-22
+# @Email:               geattiah@gmail.com
+# @Last Modified By:    Gifty Attiah
+# @Last Modified Time:  Not Tracked
+# 
+# PROGRAM DESCRIPTION:
+# Comparison plots with RMSE and MBE estimations of thickness
+# ----------------------------------------------------------------------------
 from matplotlib import colors
 import pandas as pd
 import numpy as np
